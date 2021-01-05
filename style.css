@@ -4,7 +4,15 @@ body{
 }
 h1{
     font-size: 50px;
+
 }
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
 .highlight{
     color: orange;
 }
@@ -31,4 +39,17 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+.middle{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.highlight{
+    color: orange;
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
 }
